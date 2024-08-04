@@ -1,0 +1,7 @@
+.DS_Store
+.idea/
+Calculator for Investors/
+course-info.yaml
+course-remote-info.yaml
+identifier.sqlite
+investor.db
